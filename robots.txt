@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://novembermalady.github.io/mercy-is-head-to-swallow/sitemap.xml
